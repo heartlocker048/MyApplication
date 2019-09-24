@@ -5,6 +5,4 @@ fun addTwoNumbers(a:Int,b:Int):Int{
 }
 
 
-fun multiplyTwoNumbers(a:Int,b:Int):Int{
-    return a*b
-}
+
